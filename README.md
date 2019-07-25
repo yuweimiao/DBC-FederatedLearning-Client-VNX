@@ -12,7 +12,7 @@ Provided by DeepBrain Chain, Inc. and VisionX.org
 
 This is a Python 3 package for the training/testing of deep learning-based models in decentralized computing framework, called Federated Learning (FL). This repository is used by the client side (the computing nodes that do most of the computation) or edge devices rather than the server.  
 
-The PyTorch version currently supported is 1.13.3.
+The currently supported PyTorch version is 1.13.3.
 
 The libraries in this repository can be used in any type of distributed computing for deep learning in any circumstance. It is currently composed of high level modules on top of the deep learning package of PyTorch for the modelling part. One can use the modules to write simplified pipelines for deep learning tasks. 
 
@@ -75,7 +75,7 @@ This folder gives some basic examples of scripts to execute under a given framew
 
 This folder includes important source codes for the projects on actual industrial applications such as visual defect detection of manufactured products using CNN, coal mine gas level predictions at various locations using LSTM, or speech detection for different dialects using LSTM and CNN, etc.
 
-These applications are very important for this big project. They are the sub-projects that this framework is built for. For each of these applications, the model will continuously be updated and developed by the community through the DBC distributed computing network. As time goes on, new applications will be added. We, along with the community, will continuously expand our application scope and build useful models for every industry.
+These applications are very important for this big project. They are the sub-projects that this framework is built for. For each of these applications, the model will continuously be updated and developed by the community through the DBC distributed computing network. As time goes on, new applications will be added in order to satisfy the increasing demand of other industry. We, along with the community, will continuously expand our application scope and build useful models for every industry.
 <br/><br/>
 
 # Please contribute
